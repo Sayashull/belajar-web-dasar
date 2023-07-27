@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  background: hsl(0, 0%, 90%);
+  background: hsl(0, 0%, 0%);
   font-family: 'Quicksand', sans-serif;
   margin: 0;
   padding: 0;
@@ -30,7 +30,7 @@ main {
 }
 
 .jumbotron {
-  background: url("../img/IMG_20210605_160201.jpg");
+  background: url("../img/poter-Pramuka.webp");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
